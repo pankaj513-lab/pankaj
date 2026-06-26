@@ -9,5 +9,5 @@ This is a simple python game where the user tries to guess a random number .
  2. Run the python file :
     python code.py
 # Author 
-Pankaj Kumar
+Pankaj Kumar Gupta
     
